@@ -56,7 +56,7 @@ callback i harda istifadə etməliyəm tam olara bilmədim
 
 //4
 
-// function ededi_orta(...arr) {
+// function cut_vur_tek(...arr) {
 //     const result = [...arr];
 //     let sumcut = 0;
 //     let sumtek = 0;
@@ -72,6 +72,6 @@ callback i harda istifadə etməliyəm tam olara bilmədim
 //     return sumcut*sumtek
 // }
 
-// console.log(ededi_orta(2,5,3,8));
+// console.log(cut_vur_tek(2,5,3,8));
 
 
